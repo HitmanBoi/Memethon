@@ -1,1 +1,1 @@
-# Memeathon - ICP
+# Memeathon 2024 - ICP
