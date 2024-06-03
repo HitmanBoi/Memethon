@@ -1,1 +1,1 @@
-# Memeathon
+# Memeathon - ICP
