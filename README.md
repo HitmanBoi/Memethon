@@ -1,2 +1,2 @@
 # Memeathon 2024 - ICP
-#ICRC
+# ICRC-1
