@@ -1,3 +1,5 @@
+<img src="LOGO.png" width="400">
+
 # Memeathon 2024 - ICP
-# bLOCKSEBLOCK
+# BLOCKSEBLOCK
 # ICRC-1
