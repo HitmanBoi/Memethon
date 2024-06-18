@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "src/Juan_Horse_backend"
+]
+resolver = "2"
