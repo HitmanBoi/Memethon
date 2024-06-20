@@ -6,6 +6,7 @@
 
 <div align="center">
 <img src="LOGO.png" width="400">
+<h1>$JUAN - The Horse</h1>
 </div>
 
 # Memeathon 2024 - ICP
