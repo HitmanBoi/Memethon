@@ -9,6 +9,5 @@
 <h1>$JUAN - The Horse</h1>
 </div>
 
-# Memeathon 2024 - ICP
 # BLOCKSEBLOCK
 # ICRC-1
