@@ -9,5 +9,7 @@
 <h1>$JUAN - The Horse</h1>
 </div>
 
+<h3>The memecoin market is growing really very fast . But ever wondered Why?</h3>
+
 # BLOCKSEBLOCK
 # ICRC-1
