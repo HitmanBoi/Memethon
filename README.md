@@ -10,7 +10,7 @@
 </div>
 
 <h3>The memecoin market is growing really very fast . But ever wondered Why?</h3>
-<h3>We also don't know but We've figured out one thing that most people do not care about utilities and use use cases of assets they hold , They'll even buy packets of shit if they're in trend. </h3>
+<h3>We also don't know but We've figured out one thing that most people do not care about utilities and use cases of assets they hold , They'll even buy packets of shit if they're in trend. </h3>
 
 # BLOCKSEBLOCK
 # ICRC-1
