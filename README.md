@@ -17,6 +17,8 @@
 <h2>$JUAN have a real world use case and IT MAKES SOME SENSE. </h2>
 <h3>YES, it is an utility token </h3>
 
+<h3>.........AND</h3>
+
 
 # BLOCKSEBLOCK
 # 2ICRC-1
