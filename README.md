@@ -19,6 +19,8 @@
 
 <h3>.........AND</h3>
 
+<h2>We are going to AIRDROP some portion of it in most easiest and popular way.</h2>
+
 
 # BLOCKSEBLOCK
 # 2ICRC-1
