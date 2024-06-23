@@ -1,3 +1,9 @@
+<div align="center">
+<img src="Juan_cover.jpeg" width="800" height="400">
+<h2>$JUAN - A Memecoin with the most accurate use case to it's name.</h2>
+</div>
+
+
 # Juan_Horse
 
 Welcome to your new Juan_Horse project and to the internet computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
