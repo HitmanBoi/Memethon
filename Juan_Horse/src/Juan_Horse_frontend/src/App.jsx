@@ -4,8 +4,12 @@ const App = () => {
   return (
     <div className="app">
       <header className="hero">
-        <h1>Horse Crypto Token</h1>
+        <div>
+        <h1>$JUAN - The Horse</h1> 
+        <img src="public/android-chrome-192x192.png" alt="Logo" />
+        </div> <br />
         <p>Revolutionizing the horse racing industry with blockchain technology</p>
+        <br />
         <button>Learn More</button>
       </header>
       <section className="features">
