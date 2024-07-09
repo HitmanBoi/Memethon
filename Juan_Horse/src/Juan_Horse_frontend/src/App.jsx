@@ -32,8 +32,8 @@ const App = () => {
       </section>
       <section className="tokenomics">
         <h2>Tokenomics</h2>
-        <p>Total Supply: </p>
-        <p>Token Price: $0.10</p>
+        <p>Total Supply: To be announced </p>
+        <p>Token Price: To be announced</p>
         <button>Buy HORSE Tokens</button>
         <img src="public/Horse_grazing.jpeg" alt="Horse Grazing" height={100} />
       </section>
