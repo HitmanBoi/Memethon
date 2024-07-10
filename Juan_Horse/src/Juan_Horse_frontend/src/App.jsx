@@ -36,7 +36,9 @@ const App = () => {
         <p>Token Price: To be announced</p>
         <button>Buy HORSE Tokens</button>
         <h2> Allocation </h2>
-        
+        <p>15% : Presale</p>
+        <p>45% : In Game Rewards</p>
+        <p>25% : </p>
         <img src="public/Horse_grazing.jpeg" alt="Horse Grazing" height={100} />
       </section>
     </div>
