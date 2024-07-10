@@ -32,9 +32,11 @@ const App = () => {
       </section>
       <section className="tokenomics">
         <h2>Tokenomics</h2>
-        <p>Total Supply: To be announced </p>
+        <p>Total Supply: 3.5B $JUAN </p>
         <p>Token Price: To be announced</p>
         <button>Buy HORSE Tokens</button>
+        <h2> Allocation </h2>
+        
         <img src="public/Horse_grazing.jpeg" alt="Horse Grazing" height={100} />
       </section>
     </div>
