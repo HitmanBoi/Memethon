@@ -69,6 +69,7 @@ const App = () => {
             <h3>10%</h3>
             <p>Community and Platform Development</p>
           </li>
+            <img src="/Horse_shoe.png" alt="Horse Shoe" height={150} />
           <li>
             <i className="fas fa-lock"></i>
             <h3>5%</h3>
