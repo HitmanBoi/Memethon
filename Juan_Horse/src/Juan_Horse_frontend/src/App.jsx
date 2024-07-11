@@ -43,6 +43,26 @@ const App = () => {
         <p>5% : Horse Welfare Funds</p>
         <img src="public/Horse_grazing.jpeg" alt="Horse Grazing" height={100} />
       </section>
+      <section className="features">
+        <h2>Key Features</h2>
+        <ul>
+          <li>
+            <i className="fas fa-horse"></i>
+            <h3>Decentralized Horse Racing</h3>
+            <p>Transparent and fair horse racing on the blockchain</p>
+          </li>
+          <li>
+            <i className="fas fa-chart-line"></i>
+            <h3>Tokenized Horse Ownership</h3>
+            <p>Buy, sell, and trade horse ownership tokens</p>
+          </li>
+          <li>
+            <i className="fas fa-lock"></i>
+            <h3>Secure and Transparent</h3>
+            <p>Secure and transparent transactions on the blockchain</p>
+          </li>
+        </ul>
+      </section>
     </div>
   );
 };
