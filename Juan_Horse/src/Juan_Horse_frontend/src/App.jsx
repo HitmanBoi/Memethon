@@ -58,10 +58,24 @@ const App = () => {
           </li>
           <li>
             <i className="fas fa-lock"></i>
-            <h3>Secure and Transparent</h3>
-            <p>Secure and transparent transactions on the blockchain</p>
+            <h3>25%</h3>
+            <p>Airdrops</p>
           </li>
         </ul>
+        <section className="allocation">
+        <ul>
+          <li>
+            <i className="fas fa-chart-line"></i>
+            <h3>10%</h3>
+            <p>Community and Platform Development</p>
+          </li>
+          <li>
+            <i className="fas fa-lock"></i>
+            <h3>5%</h3>
+            <p>Horse Welfare Funds and Charity</p>
+          </li>
+        </ul>
+      </section>
       </section>
     </div>
   );
