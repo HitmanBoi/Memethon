@@ -43,18 +43,18 @@ const App = () => {
         <p>5% : Horse Welfare Funds</p>
         <img src="public/Horse_grazing.jpeg" alt="Horse Grazing" height={100} />
       </section>
-      <section className="features">
-        <h2>Key Features</h2>
+      <section className="allocation">
+        <h2>Allocation</h2>
         <ul>
           <li>
             <i className="fas fa-horse"></i>
-            <h3>Decentralized Horse Racing</h3>
-            <p>Transparent and fair horse racing on the blockchain</p>
+            <h3>15%</h3>
+            <p>Presale</p>
           </li>
           <li>
             <i className="fas fa-chart-line"></i>
-            <h3>Tokenized Horse Ownership</h3>
-            <p>Buy, sell, and trade horse ownership tokens</p>
+            <h3>45%</h3>
+            <p>In Game Rewards</p>
           </li>
           <li>
             <i className="fas fa-lock"></i>
