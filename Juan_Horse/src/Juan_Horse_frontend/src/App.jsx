@@ -29,17 +29,19 @@ const App = () => {
             <p>Secure and transparent transactions on the blockchain</p>
           </li>
         </ul>
+       
       </section>
+      
       <section className="tokenomics">
+      <img src="public/Horse_grazing.jpeg" alt="Horse Grazing" height={100} />
         <h2>Tokenomics</h2>
         <p>Total Supply: 3.5B $JUAN </p>
+        <button>Buy HORSE Tokens (Presale) </button>
+        <h4> 15% Presale Distribution </h4>
         <p>Token Presale Price: $0.5</p>
-        <button>Buy HORSE Tokens</button>
-        <h4> Presale Distribution </h4>
-        <p>15% : Presale</p>
         
         
-        <img src="public/Horse_grazing.jpeg" alt="Horse Grazing" height={100} />
+        
       </section>
       <section className="allocation">
         <h2>Allocation</h2>
