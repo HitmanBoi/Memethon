@@ -35,7 +35,7 @@ const App = () => {
         <p>Total Supply: 3.5B $JUAN </p>
         <p>Token Presale Price: $0.5</p>
         <button>Buy HORSE Tokens</button>
-        <h2> Allocation </h2>
+        <h4> Presale Distribution </h4>
         <p>15% : Presale</p>
         
         
